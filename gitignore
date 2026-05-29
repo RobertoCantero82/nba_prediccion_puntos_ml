@@ -1,0 +1,21 @@
+# datos originales (descargar desde Kaggle)
+nba.csv
+
+# modelo guardado
+*.pkl
+
+# checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# entornos virtuales
+venv/
+.env
