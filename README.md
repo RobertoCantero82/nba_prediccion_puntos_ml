@@ -2,11 +2,7 @@
   <img src="rc_logo_nba_ml.svg" width="400" alt="Logo"/>
 </p>
 
-<h1 align="center">nba-prediccion-puntos-ml</h1>
-
-<p align="center">
-  Primer proyecto de Machine Learning — predicción de puntos por partido en la NBA
-</p>
+<h1 align="center">Primer proyecto de Machine Learning — predicción de puntos por partido en la NBA</h1>
 
 ---
 
@@ -112,4 +108,4 @@ nba-prediccion-puntos-ml/
 
 ## 👤 Autor
 
-**Rober** — proyecto de iniciación al Machine Learning
+**Roberto Cantero** — proyecto de iniciación al Machine Learning
