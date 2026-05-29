@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rc_logo_animado.svg" width="120" alt="Logo"/>
+  <img src="rc_logo_nba_ml.svg" width="400" alt="Logo"/>
 </p>
 
 <h1 align="center">nba-prediccion-puntos-ml</h1>
